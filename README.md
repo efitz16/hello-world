@@ -1,3 +1,3 @@
 # hello-world
 
-I hate my life and I'm going to die alone.
+I'm probably going to die alone.
